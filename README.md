@@ -1,3 +1,5 @@
+🌐Personal Portofolio Website Farel  Rizky Aliansi
+
 Website portofolio pribadi ini dibuat untuk menampilkan profil, pengalaman, keterampilan, serta proyek yang pernah dikerjakan secara interaktif, elegan, dan responsif. Didesain dengan perpaduan teknologi dan estetika visual, website ini menjadi representasi digital dari perjalanan dan minat saya di dunia informatika, desain, dan pengembangan web.
 
 Demo YouTube: https://youtu.be/v8X0qtQo2EI
